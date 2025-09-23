@@ -13,7 +13,7 @@ Rows: 2,358
 
 Columns (features): 15
 
-Target Variable: Burnout_Level
+Target Variable: Mental Health Status
 
 ##Group Members Names and Roles
 
