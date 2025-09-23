@@ -17,9 +17,9 @@ Target Variable: Burnout_Level
 
 ##Group Members Names and Roles
 
-IT24104181 Alhakoon.A.M.D.S         Handling_Missing_Data
-IT24102876 Nawarathna.I.G.D.S       Outliers_Removal
-IT24103159 Athauda.K.K.A.M.S.R.V.B. Feature_Selection
-IT24102944 Dasanayake U.R.N.P.K     Encoding_Categorical_Variables
-IT24102770 Leelarthna G.N.P         Feature_Creation
-IT24103652 Ilham M.H.M              Z-secore Scaling 
+##IT24104181 Alhakoon.A.M.D.S         Handling_Missing_Data
+##IT24102876 Nawarathna.I.G.D.S       Outliers_Removal
+##IT24103159 Athauda.K.K.A.M.S.R.V.B. Feature_Selection
+##IT24102944 Dasanayake U.R.N.P.K     Encoding_Categorical_Variables
+##IT24102770 Leelarthna G.N.P         Feature_Creation
+##IT24103652 Ilham M.H.M              Z-secore Scaling 
