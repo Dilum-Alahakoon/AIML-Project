@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning prediction pipeline designed to classify the mental health status of remote employees, helping organizations provide early interventions, reduce burnout, and foster a healthier work-life balance.
 
-> **Institution:** SLIIT | **Module:** IT2011 - Artificial Intelligence and Machine Learning  
+> **Module:** IT2011 - Artificial Intelligence and Machine Learning  
 > **Group ID:** 2025-Y2-S1-KU-40
 
 ---
