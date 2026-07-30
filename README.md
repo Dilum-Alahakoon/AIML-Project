@@ -31,6 +31,12 @@ To ensure high model reliability and efficiency, the raw dataset goes through a 
 
 ---
 
+## 🛠️ Tech Stack & Tools
+- **Language:** Python
+- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
+- **Environment:** Jupyter Notebook / Google Colab / VS Code
+
+---
 ## 👥 Group Members & Individual Roles
 
 | Student ID | Member Name | Technical Responsibility |
@@ -42,18 +48,3 @@ To ensure high model reliability and efficiency, the raw dataset goes through a 
 | **IT24103652** | Ilham M.H.M. | Z-score Scaling |
 | **IT24103159** | Athauda K.K.A.M.S.R.V.B. | Feature Selection |
 
----
-
-## 🛠️ Tech Stack & Tools
-- **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-- **Environment:** Jupyter Notebook / Google Colab / VS Code
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/remote-work-mental-health.git](https://github.com/your-username/remote-work-mental-health.git)
-cd remote-work-mental-health
